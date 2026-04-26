@@ -79,12 +79,12 @@ export default function LoginPage() {
 								<Label htmlFor="password" className="text-gray-300">
 									Password
 								</Label>
-								<Link
+								{/* <Link
 									href="/forgot-password"
 									className="text-sm text-amber-500 hover:text-amber-400 hover:underline"
-								>
+								> */}
 									Forgot password?
-								</Link>
+								{/* </Link> */}
 							</div>
 							<Input
 								id="password"
